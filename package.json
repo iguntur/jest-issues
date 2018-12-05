@@ -1,0 +1,15 @@
+{
+  "name": "jest-issues",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --no-watchman --no-cache"
+  },
+  "keywords": [],
+  "author": "Guntur Poetra <poetra.guntur@gmail.com> (https://github.com/iguntur)",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
